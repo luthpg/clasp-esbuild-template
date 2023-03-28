@@ -1,7 +1,7 @@
 {
-  "name": "clasp-simple-template",
+  "name": "clasp-esbuild-template",
   "version": "0.0.1",
-  "description": "template for Google Apps Script in Local Env (simple style)",
+  "description": "template for Google Apps Script in Local Env (esbuild style)",
   "main": "app.js",
   "scripts": {
     "build": "node build.js",
